@@ -11,3 +11,8 @@ body{
 .textWhiteColor{
     color: white;
 }
+
+.customImage{
+  height: 50px;
+  width: 50px;
+}
